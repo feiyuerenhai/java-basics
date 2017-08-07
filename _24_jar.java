@@ -22,4 +22,5 @@ class Animal{
 // 另外该文件的末尾必须是空行
 // 命令如下：jar cfm _24_jar.jar _24_jar.mf _24_jar.class Animal.class
 // 即：jar | cfm | 目标jar文件 | manifest文件 | ...class文件
+// cfm 即 create filename manifest
 // jar包的执行命令：java -jar _24_jar.jar
